@@ -22,7 +22,7 @@ A seated practice space clients of Solution Talk can open between sessions or in
 2. **Tunability.** Intensity, sound buses, guidance, and environment are preset, and safety locks hold.
 3. **Embodied practice.** Spatial sound and a still image support orienting and dual awareness. The image does not perform.
 4. **Clinical continuity.** The same pacing as the courses and the guided meditations already on the site.
-5. **Access.** Seated first. The headset build uses Unity and the current Meta XR SDKs, so Quest and later Meta VR Glasses can share one session. A flat-screen version carries the same audio and captions when a headset is unavailable. Future headwear is added only when it can run that session.
+5. **Access.** Seated first. The headset build uses Unity and the current Meta XR SDKs, so Quest and later Meta VR Glasses can share one session. Ray-Ban Meta is an audio-only path for the same guided voice: no picture, and no use of the glasses camera or microphone. A flat-screen version carries the same audio and captions when a headset is unavailable. Future headwear is added only when it can run that session.
 
 **What “AAA” means here**
 Craft, not spectacle. Seamless sound, a voice that sits in the room rather than inside the head, captions, a stable horizon, and controls that work by looking or with a controller. Consumer VR meditation apps often spend their polish on worlds, rewards, and an AI companion. This practice spends it on the mix, the script, and the exit.
