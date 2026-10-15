@@ -228,38 +228,17 @@ h3 {
 
 .room {
   margin: 0;
-  background: var(--cream);
+  background: #fffcf8;
   border: 1px solid var(--line);
   border-radius: 18px;
-  min-height: 320px;
   position: relative;
   overflow: hidden;
 }
 
-.room-sky {
-  position: absolute;
-  inset: 0 0 42% 0;
-  background: #efe8dc;
-}
-
-.room-horizon {
-  position: absolute;
-  left: 8%;
-  right: 8%;
-  top: 58%;
-  height: 1px;
-  background: #c9bfb2;
-}
-
-.room-point {
-  position: absolute;
-  left: 50%;
-  top: 46%;
-  width: 10px;
-  height: 10px;
-  margin-left: -5px;
-  border-radius: 50%;
-  background: var(--green);
+.room-scene {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .room figcaption {
