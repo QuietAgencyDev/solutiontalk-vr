@@ -65,7 +65,7 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 5;
-  background: rgba(255, 252, 248, 0.94);
+  background: #fffcf8;
   border-bottom: 1px solid var(--line);
 }
 
@@ -75,6 +75,7 @@ a:hover {
   align-items: center;
   justify-content: space-between;
   gap: 1.5rem;
+  padding: 0.65rem 0;
 }
 
 .brand {
@@ -86,19 +87,8 @@ a:hover {
 }
 
 .brand img {
-  width: 210px;
-  height: auto;
-}
-
-.brand-mark {
-  font-family: Montserrat, sans-serif;
-  font-weight: 600;
-  letter-spacing: 0.14em;
-  font-size: 0.78rem;
-  color: var(--green);
-  border: 1px solid var(--green);
-  border-radius: 999px;
-  padding: 0.2rem 0.55rem;
+  height: 132px;
+  width: auto;
 }
 
 .nav {
@@ -134,7 +124,7 @@ a:hover {
 #space,
 #sound,
 #practice {
-  scroll-margin-top: 5.25rem;
+  scroll-margin-top: 11rem;
 }
 
 .hero {
@@ -404,8 +394,14 @@ address p {
   font-size: 0.92rem;
 }
 
+.footer-logo {
+  height: 84px;
+  width: auto;
+}
+
 .footer-inner {
   display: flex;
+  align-items: center;
   justify-content: space-between;
   gap: 2rem;
 }
@@ -436,7 +432,12 @@ address p {
   }
 
   .brand img {
-    width: 168px;
+    height: 84px;
+  }
+
+  .footer-logo {
+    height: 72px;
+    margin-bottom: 1rem;
   }
 
   .hero,
