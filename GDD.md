@@ -22,7 +22,7 @@ A seated practice space clients of Solution Talk can open between sessions or in
 2. **Tunability.** Intensity, sound buses, guidance, and environment are preset, and safety locks hold.
 3. **Embodied practice.** Spatial sound and a still image support orienting and dual awareness. The image does not perform.
 4. **Clinical continuity.** The same pacing as the courses and the guided meditations already on the site.
-5. **Access.** Seated WebXR first, so Quest, desktop, and later Meta VR Glasses share one session. A flat-screen version carries the same audio and captions when a headset is unavailable.
+5. **Access.** Seated first. The headset build uses Unity and the current Meta XR SDKs, so Quest and later Meta VR Glasses can share one session. A flat-screen version carries the same audio and captions when a headset is unavailable. Future headwear is added only when it can run that session.
 
 **What “AAA” means here**
 Craft, not spectacle. Seamless sound, a voice that sits in the room rather than inside the head, captions, a stable horizon, and controls that work by looking or with a controller. Consumer VR meditation apps often spend their polish on worlds, rewards, and an AI companion. This practice spends it on the mix, the script, and the exit.
@@ -85,7 +85,7 @@ Exit, Softer, and Freeze are large targets in the middle of the field of view, w
 | Freeze | Image and buses hold. Select again to resume. |
 | Volume | Voice, ambience, and music, inside the range the clinician left unlocked. |
 
-The same targets accept a gaze ray, a head ray, a hand ray, or a controller trigger. Gaze is optional. Hand tracking is optional. Meta VR Glasses (spring 2027, SDK v207) use look, then pinch or tap. Quest uses the same targets with Touch controllers. Voice is not a session control. “Talk to Meta AI” stays a system feature.
+The same targets accept a gaze ray, a head ray, a hand ray, or a controller trigger. Gaze is optional. Hand tracking is optional. Meta VR Glasses (spring 2027, coming soon) use look, then pinch or tap. Quest uses the same targets with Touch controllers. Voice is not a session control. “Talk to Meta AI” stays a system feature.
 
 Gaze does not change the room, the mix, or a sweep. The session does not record where someone looks. Prefer system-mediated selection, where the page receives the select and not the gaze ray.
 
