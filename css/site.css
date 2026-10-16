@@ -566,7 +566,19 @@ address p {
 }
 
 @media (max-width: 800px) {
-  .header-inner,
+  .header-inner {
+    gap: 0.75rem;
+    flex-wrap: nowrap;
+  }
+
+  .brand {
+    min-width: 0;
+  }
+
+  .nav {
+    flex: 0 0 auto;
+  }
+
   .hero-grid,
   .split-grid,
   .practice-grid,
@@ -582,7 +594,8 @@ address p {
   }
 
   .brand img {
-    height: 84px;
+    height: 72px;
+    max-width: 100%;
   }
 
   .footer-logo {
